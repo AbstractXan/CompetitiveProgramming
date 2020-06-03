@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-This repository is hosts the competitive programming code I've written.
+This repository hosts the competitive programming code I've written.
